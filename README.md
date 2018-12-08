@@ -1,2 +1,2 @@
 # CellarHQ
-Cellar Management Solution
+Wine Cellar Management Solution
